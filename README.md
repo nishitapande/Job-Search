@@ -8,3 +8,4 @@ Websites to search job openings
 5. Cuvette: https://cuvette.tech/app/student/
 6. Internshala: https://internshala.com/jobs/
 7. Engineer Hub: https://www.engineerhub.in/
+8. Snaphunt: https://snaphunt.com/candidateDashboard
